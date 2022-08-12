@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "Badges",
+  "mainClass": "com.rappytv.badges.BadgesAddon",
+  "description": "This addon shows LABY.net badges above the username!",
+  "version": 1,
+  "author": "RappyTV#6969 [Cr: Gommzy]",
+  "category": 2,
+  "icon": "https://cdn.discordapp.com/attachments/938944740920016916/993968139136159834/nametag.png?size=4096"
+}
