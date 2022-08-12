@@ -1,7 +1,6 @@
 package com.rappytv.badges;
 
 import com.rappytv.badges.events.RenderEvent;
-import javafx.scene.control.Slider;
 import net.labymod.api.LabyModAddon;
 import net.labymod.settings.elements.BooleanElement;
 import net.labymod.settings.elements.ControlElement;
