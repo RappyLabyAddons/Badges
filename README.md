@@ -1,4 +1,4 @@
-# **Badges Addon**
+# **Badges Addon [LabyMod 3]**
 > With this addon all laby.net badges of users are displayer over their nametags.
 
 ### You can customize these Settings:
